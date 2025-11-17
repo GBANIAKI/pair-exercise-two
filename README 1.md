@@ -1,3 +1,4 @@
+
 IST 303 – XR Team Exercise #2
 Fall 2025 | Due Nov 13, 2025 @ 10:00 PM
 
@@ -28,3 +29,4 @@ Original Issues and Fixes
 6	Unlimited number of results	Added --max argument to limit wikipedia.search() output.
 7	Nested worker functions unsafe for multiprocessing	Moved _process_worker() to top-level scope for pickling safety.
 8	No CLI or documentation	Added argparse CLI, top-level docstring, and README documentation.
+IS
